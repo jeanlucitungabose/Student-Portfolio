@@ -1,0 +1,13 @@
+body {
+    background-color: skyblue;
+}  
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+input {
+    border: 2cm;
+    background-color:darkgray;
+}
